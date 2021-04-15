@@ -1,0 +1,5 @@
+﻿  game.c
+C:\Users\86189\source\repos\扫雷\扫雷\game.c(46,16): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\86189\source\repos\扫雷\扫雷\game.c(61,22): warning C4552: ”-“: 未使用表达式结果
+C:\Users\86189\source\repos\扫雷\扫雷\game.c(67): warning C4716: “get_mine_count”: 必须返回一个值
+  扫雷.vcxproj -> C:\Users\86189\source\repos\扫雷\Debug\扫雷.exe

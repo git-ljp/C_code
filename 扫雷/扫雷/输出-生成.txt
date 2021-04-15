@@ -1,0 +1,9 @@
+﻿已启动生成…
+1>------ 已启动生成: 项目: 扫雷, 配置: Debug Win32 ------
+1>game.c
+1>C:\Users\86189\source\repos\扫雷\扫雷\game.c(46,16): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+1>C:\Users\86189\source\repos\扫雷\扫雷\game.c(61,22): warning C4552: ”-“: 未使用表达式结果
+1>C:\Users\86189\source\repos\扫雷\扫雷\game.c(67): warning C4716: “get_mine_count”: 必须返回一个值
+1>扫雷.vcxproj -> C:\Users\86189\source\repos\扫雷\Debug\扫雷.exe
+1>已完成生成项目“扫雷.vcxproj”的操作。
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
