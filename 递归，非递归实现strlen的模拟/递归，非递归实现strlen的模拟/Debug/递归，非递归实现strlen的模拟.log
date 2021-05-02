@@ -1,0 +1,4 @@
+﻿  strlen.c
+C:\Users\86189\source\repos\递归，非递归实现strlen的模拟\递归，非递归实现strlen的模拟\strlen.c(35,26): warning C4047: “函数”:“char *”与“char (*)[6]”的间接级别不同
+C:\Users\86189\source\repos\递归，非递归实现strlen的模拟\递归，非递归实现strlen的模拟\strlen.c(35,22): warning C4024: “my_strlen”: 形参和实参 1 的类型不同
+  递归，非递归实现strlen的模拟.vcxproj -> C:\Users\86189\source\repos\递归，非递归实现strlen的模拟\Debug\递归，非递归实现strlen的模拟.exe
