@@ -5,8 +5,8 @@ int Get_diff_bit(int m, int n)
 	int temp = m ^ n;			//利用按位异或原理，相同为0，不同为1；所以只需计算异或之后的二进制数中1的个数就行；
 	while (temp)
 	{
-		temp = temp & (temp - 1);		//每次异或之后都能消除一个1
-		count++;	//异或几次加几次	
+		temp = temp & (temp - 1);		//每次按位与之后都能消除一个1
+		count++;	//按位与几次加几次	
 	}
 	return count;
 }
