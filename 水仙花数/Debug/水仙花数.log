@@ -1,0 +1,3 @@
+﻿  shuixianhua.c
+C:\Users\86189\source\repos\水仙花数\shuixianhua.c(25,32): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  水仙花数.vcxproj -> C:\Users\86189\source\repos\水仙花数\Debug\水仙花数.exe
