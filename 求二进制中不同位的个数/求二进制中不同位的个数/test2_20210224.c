@@ -17,7 +17,7 @@ int main()
 	printf("请输入两个数m和n:");
 	scanf_s("%d%d", &m, &n);
 	int count = Get_diff_bit(m, n);
-	printf("count=%d", count);
+	printf("count=%d\n", count);
 
 	return 0;
 }

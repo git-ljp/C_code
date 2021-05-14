@@ -19,7 +19,7 @@
 //	int count = 0;
 //	for (i = 0; i < 32; i++)
 //	{
-//		if (((n >> i) & 1) == 1)
+//		if (((n >> i) & 1) == 1)//Óë1°´Î»Óë£¬ÓĞ0Ôò0£¬Èç¹ûµÍÎ»ÊÇ1£¬ÄÇÃ´Õâ¸öÊı¾ÍÓĞÒ»¸ö1
 //		{
 //			count++;
 //		}
@@ -32,7 +32,7 @@ int Count_bit_one(int n)		//µÚÈıÖÖËã·¨£¬ÀûÓÃnÓën-1°´Î»ÓëµÄ´ÎÊıÀ´¼ÆËãcountµÄ´ÎÊı£
 	int count = 0;
 	while (n)
 	{
-		n=n&( n - 1);
+		n=n&( n - 1);//Âú2½ø1£¬n-1Ö®ºó£¬nºÍn-1ÆäÖĞÒ»¸öµÍÎ»Îª0£¬Ò»¸öµÍÎ»Îª1.°´Î»Óë1´Î¾ÍÄÜÏû³ıÒ»¸ö1
 		count++;
 	}
 	return count;
@@ -43,7 +43,7 @@ int main()
 	printf("ÇëÊäÈëÒ»¸öÊın£º");
 	scanf_s("%d",&n);
 	int count=Count_bit_one(n);
-	printf("%d", count);
+	printf("%d\n", count);
 
 	return 0;
 
