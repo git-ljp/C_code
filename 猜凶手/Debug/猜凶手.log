@@ -1,0 +1,7 @@
+﻿  cxs.c
+C:\Users\86189\source\repos\猜凶手\cxs.c(5,7): error C2374: “killer”: 重定义；多次初始化
+C:\Users\86189\source\repos\猜凶手\cxs.c(4): message : 参见“killer”的声明
+C:\Users\86189\source\repos\猜凶手\cxs.c(6,7): error C2374: “killer”: 重定义；多次初始化
+C:\Users\86189\source\repos\猜凶手\cxs.c(4): message : 参见“killer”的声明
+C:\Users\86189\source\repos\猜凶手\cxs.c(7,7): error C2374: “killer”: 重定义；多次初始化
+C:\Users\86189\source\repos\猜凶手\cxs.c(4): message : 参见“killer”的声明
