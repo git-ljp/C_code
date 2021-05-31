@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(qsort模拟实现.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  qsort.c
+  qsort模拟实现.vcxproj -> C:\Users\86189\source\repos\qsort模拟实现\Debug\qsort模拟实现冒泡排序.exe
