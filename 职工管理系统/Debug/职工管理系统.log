@@ -1,0 +1,3 @@
+﻿  employer.c
+C:\Users\86189\source\repos\职工管理系统\employer.c(33,10): warning C4101: “a”: 未引用的局部变量
+  职工管理系统.vcxproj -> C:\Users\86189\source\repos\职工管理系统\Debug\职工管理系统.exe
