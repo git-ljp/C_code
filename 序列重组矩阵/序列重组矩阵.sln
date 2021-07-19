@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "序列重组矩阵", "序列重组矩阵.vcxproj", "{20A11892-3D48-4683-BE13-2F862CED3C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A11892-3D48-4683-BE13-2F862CED3C5E}.Debug|x64.ActiveCfg = Debug|x64
+		{20A11892-3D48-4683-BE13-2F862CED3C5E}.Debug|x64.Build.0 = Debug|x64
+		{20A11892-3D48-4683-BE13-2F862CED3C5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{20A11892-3D48-4683-BE13-2F862CED3C5E}.Debug|x86.Build.0 = Debug|Win32
+		{20A11892-3D48-4683-BE13-2F862CED3C5E}.Release|x64.ActiveCfg = Release|x64
+		{20A11892-3D48-4683-BE13-2F862CED3C5E}.Release|x64.Build.0 = Release|x64
+		{20A11892-3D48-4683-BE13-2F862CED3C5E}.Release|x86.ActiveCfg = Release|Win32
+		{20A11892-3D48-4683-BE13-2F862CED3C5E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7140A3CF-FF13-40B0-AFD1-7146283274F9}
+	EndGlobalSection
+EndGlobal
